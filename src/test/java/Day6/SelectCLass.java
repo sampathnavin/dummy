@@ -14,6 +14,7 @@ public class SelectCLass {
 		
 		// Select Class - Is used for handling drop down web element 
 		
+// Chetans is updating here login page 
 		
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\DELL\\eclipse-workspace\\SeleniumTrainingBatch3\\src\\test\\resources\\chromedriver.exe");
 		
